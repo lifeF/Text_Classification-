@@ -9,6 +9,7 @@
 
 
 # import file
+from Dociment_Analyzer import Read_File
 
-print("main")
+Read_File()
 
